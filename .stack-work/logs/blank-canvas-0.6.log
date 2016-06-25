@@ -1,0 +1,24 @@
+Configuring blank-canvas-0.6...
+Building blank-canvas-0.6...
+Preprocessing library blank-canvas-0.6...
+[ 1 of 17] Compiling Graphics.Blank.Parser ( Graphics/Blank/Parser.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Parser.o )
+[ 2 of 17] Compiling Paths_blank_canvas ( .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/autogen/Paths_blank_canvas.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Paths_blank_canvas.o )
+[ 3 of 17] Compiling Graphics.Blank.Types ( Graphics/Blank/Types.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Types.o )
+[ 4 of 17] Compiling Graphics.Blank.JavaScript ( Graphics/Blank/JavaScript.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/JavaScript.o )
+[ 5 of 17] Compiling Graphics.Blank.Types.Cursor ( Graphics/Blank/Types/Cursor.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Types/Cursor.o )
+[ 6 of 17] Compiling Graphics.Blank.Types.CSS ( Graphics/Blank/Types/CSS.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Types/CSS.o )
+[ 7 of 17] Compiling Graphics.Blank.Types.Font ( Graphics/Blank/Types/Font.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Types/Font.o )
+[ 8 of 17] Compiling Graphics.Blank.Events ( Graphics/Blank/Events.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Events.o )
+[ 9 of 17] Compiling Graphics.Blank.DeviceContext ( Graphics/Blank/DeviceContext.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/DeviceContext.o )
+[10 of 17] Compiling Graphics.Blank.Canvas ( Graphics/Blank/Canvas.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Canvas.o )
+[11 of 17] Compiling Graphics.Blank.Generated ( Graphics/Blank/Generated.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Generated.o )
+[12 of 17] Compiling Graphics.Blank.Font ( Graphics/Blank/Font.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Font.o )
+[13 of 17] Compiling Graphics.Blank.Cursor ( Graphics/Blank/Cursor.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Cursor.o )
+[14 of 17] Compiling Graphics.Blank.Style ( Graphics/Blank/Style.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Style.o )
+[15 of 17] Compiling Graphics.Blank.Utils ( Graphics/Blank/Utils.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/Utils.o )
+[16 of 17] Compiling Graphics.Blank   ( Graphics/Blank.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank.o )
+[17 of 17] Compiling Graphics.Blank.GHCi ( Graphics/Blank/GHCi.hs, .stack-work/dist/x86_64-linux/Cabal-1.22.5.0/build/Graphics/Blank/GHCi.o )
+In-place registering blank-canvas-0.6...
+Installing library in
+/home/hefesto/.stack/snapshots/x86_64-linux/lts-6.4/7.10.3/lib/x86_64-linux-ghc-7.10.3/blank-canvas-0.6-2LyVzhGqNJNLmCUI3irgzB
+Registering blank-canvas-0.6...
